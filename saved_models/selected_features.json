@@ -1,0 +1,12 @@
+{
+  "selected_features": [
+    "age",
+    "sex",
+    "cp",
+    "exang",
+    "slope",
+    "ca",
+    "thal"
+  ],
+  "cv_f1": 0.8494590073879753
+}
